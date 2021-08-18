@@ -1,5 +1,5 @@
-### Hi, my name is Abner!
-
+### Hi, my name is Abner, welcome to my profile! 😄💻
+##### I currently work as a Back End Developer, but on my profile you will also find some front end repositories with Angular 11 and ReactJS+NextJS.
 <div>
   <a href="https://github.com/AbnerBittencourt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerbittencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
