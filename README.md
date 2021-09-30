@@ -1,28 +1,28 @@
 <h1>Hi, I'm Abner 👋🏼</h1>
 
-<p>I currently work as a Full Stack Developer/Software Analist Jr, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Angular 11/12. Feel free to walk through the codes. 😊 </p>
+<p>I currently work as a Full Stack Developer/Software Analist Jr, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Angular 11/12. Feel free to walk through the codes. 💻 </p>
 
 <hr>
 <h4> 👨🏻‍💻 Back end</h4>
 
 <left>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img height=35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img height="35px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+        <img height="35px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img height="35px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img height="35px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
     <a href="#">
-        <img height="20px" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+        <img height="35px" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
     </a>
 </left>
 
