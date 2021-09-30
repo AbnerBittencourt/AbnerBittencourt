@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abner 👋🏼</h1>
 
-<p>I currently work as a Back End Developer, but on my profile you will also find some front end repositories with Angular 11.</p>
+<p>I currently work as a Full Stack Developer/Software Analist Jr, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Angular 11/12. Feel free to walk through the codes. 😊 </p>
 
 <hr>
 <h4> 👨🏻‍💻 Back end</h4>
