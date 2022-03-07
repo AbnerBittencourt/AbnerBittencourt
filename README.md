@@ -56,9 +56,6 @@
     <a href="https://www.linkedin.com/in/abner-bittencourt/">
         <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href = "mailto:abenrroccha00@gmail.com">
-    <img height="25px"src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
 </left>
 <hr>
 <h4>⚡ Some statistics from my profile</h4>
