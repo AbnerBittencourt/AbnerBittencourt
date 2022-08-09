@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abner 👋🏼</h1>
 
-<p>I currently work as a Full Stack Developer/Software Analist, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Angular 11/12. Feel free to walk through the codes. 💻 </p>
+<p>I currently work as a Software Development Engineer, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Angular 11/12. Feel free to walk through the codes. 💻 </p>
 
 <hr>
 <h4> 👨🏻‍💻 Back-end</h4>
